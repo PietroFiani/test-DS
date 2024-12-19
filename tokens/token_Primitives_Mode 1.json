@@ -501,6 +501,52 @@
           "$value": "#f0fdf4"
         }
       },
+      "Greyish": {
+        "100": {
+          "$type": "color",
+          "$value": "#f1f5f9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#e2e8f0"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#cbd5e1"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#94a3b8"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748b"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#475569"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#334155"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#1e293b"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#0f172a"
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#020617"
+        },
+        "Twd-Slate-50": {
+          "$type": "color",
+          "$value": "#f8fafc"
+        }
+      },
       "Indigo": {
         "100": {
           "$type": "color",
@@ -913,52 +959,6 @@
         "950": {
           "$type": "color",
           "$value": "#082f49"
-        }
-      },
-      "Slate": {
-        "100": {
-          "$type": "color",
-          "$value": "#f1f5f9"
-        },
-        "200": {
-          "$type": "color",
-          "$value": "#e2e8f0"
-        },
-        "300": {
-          "$type": "color",
-          "$value": "#cbd5e1"
-        },
-        "400": {
-          "$type": "color",
-          "$value": "#94a3b8"
-        },
-        "500": {
-          "$type": "color",
-          "$value": "#64748b"
-        },
-        "600": {
-          "$type": "color",
-          "$value": "#475569"
-        },
-        "700": {
-          "$type": "color",
-          "$value": "#334155"
-        },
-        "800": {
-          "$type": "color",
-          "$value": "#1e293b"
-        },
-        "900": {
-          "$type": "color",
-          "$value": "#0f172a"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#020617"
-        },
-        "Twd-Slate-50": {
-          "$type": "color",
-          "$value": "#f8fafc"
         }
       },
       "Stone": {
