@@ -178,7 +178,7 @@
         }
       }
     },
-    "Tailwind": {
+    "Test": {
       "Amber": {
         "950": {
           "$type": "color",
@@ -223,6 +223,56 @@
         "Twd-Amber-900": {
           "$type": "color",
           "$value": "#78350f"
+        }
+      },
+      "Blabla gris": {
+        "100": {
+          "$type": "color",
+          "$value": "#f1f5f9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#e2e8f0"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#cbd5e1"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#94a3b8"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748b"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#475569"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#334155"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#1e293b"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#0f172a"
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#020617"
+        },
+        "Twd-Slate-50": {
+          "$type": "color",
+          "$value": "#f8fafc"
+        },
+        "blabla gris": {
+          "$type": "color",
+          "$value": "#ffffff"
         }
       },
       "Blue": {
@@ -409,52 +459,6 @@
           "$value": "#4a044e"
         }
       },
-      "Gray": {
-        "100": {
-          "$type": "color",
-          "$value": "#f3f4f6"
-        },
-        "200": {
-          "$type": "color",
-          "$value": "#e5e7eb"
-        },
-        "300": {
-          "$type": "color",
-          "$value": "#d1d5db"
-        },
-        "400": {
-          "$type": "color",
-          "$value": "#9ca3af"
-        },
-        "500": {
-          "$type": "color",
-          "$value": "#6b7280"
-        },
-        "600": {
-          "$type": "color",
-          "$value": "#4b5563"
-        },
-        "700": {
-          "$type": "color",
-          "$value": "#374151"
-        },
-        "800": {
-          "$type": "color",
-          "$value": "#1f2937"
-        },
-        "900": {
-          "$type": "color",
-          "$value": "#111827"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#030712"
-        },
-        "Twd-Gray-50": {
-          "$type": "color",
-          "$value": "#f9fafb"
-        }
-      },
       "Green": {
         "300": {
           "$type": "color",
@@ -499,52 +503,6 @@
         "Twd-Green-50": {
           "$type": "color",
           "$value": "#f0fdf4"
-        }
-      },
-      "Greyish": {
-        "100": {
-          "$type": "color",
-          "$value": "#f1f5f9"
-        },
-        "200": {
-          "$type": "color",
-          "$value": "#e2e8f0"
-        },
-        "300": {
-          "$type": "color",
-          "$value": "#cbd5e1"
-        },
-        "400": {
-          "$type": "color",
-          "$value": "#94a3b8"
-        },
-        "500": {
-          "$type": "color",
-          "$value": "#64748b"
-        },
-        "600": {
-          "$type": "color",
-          "$value": "#475569"
-        },
-        "700": {
-          "$type": "color",
-          "$value": "#334155"
-        },
-        "800": {
-          "$type": "color",
-          "$value": "#1e293b"
-        },
-        "900": {
-          "$type": "color",
-          "$value": "#0f172a"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#020617"
-        },
-        "Twd-Slate-50": {
-          "$type": "color",
-          "$value": "#f8fafc"
         }
       },
       "Indigo": {
@@ -1051,6 +1009,52 @@
         "950": {
           "$type": "color",
           "$value": "#042f2e"
+        }
+      },
+      "Test 2": {
+        "100": {
+          "$type": "color",
+          "$value": "#f3f4f6"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#e5e7eb"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#d1d5db"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#9ca3af"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#6b7280"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#4b5563"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#374151"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#1f2937"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#111827"
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#030712"
+        },
+        "Twd-Gray-50": {
+          "$type": "color",
+          "$value": "#f9fafb"
         }
       },
       "Violet": {
