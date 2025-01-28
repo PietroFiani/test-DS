@@ -1249,6 +1249,10 @@
     "space-800": {
       "$type": "number",
       "$value": 32
+    },
+    "space-brubru-3000": {
+      "$type": "number",
+      "$value": 3000
     }
   }
 }
